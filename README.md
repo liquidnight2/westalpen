@@ -21,25 +21,14 @@
 | Joachim | 100% ok | fährt selbst runter  |   | - ok |  |  | 
 
 
-### Die Vorstaende des Vereins entscheiden demnaechst ueber einen Zuschuss, habe angefragt. Voraussichtlich maximal 60eur, die Besatzung beschraenkt mal wieder.
-### Wer hat ein Auto-Navi ? Daniel.
-### Kassier: noch offen.
+* Die Vorstaende des Vereins entscheiden demnaechst ueber einen Zuschuss, habe angefragt. Voraussichtlich maximal 60eur, die Besatzung beschraenkt mal wieder.
+* Wer hat ein Auto-Navi ? Daniel.
+* Kassier: noch offen.
 
-### erwartete Kosten, Aufstellung fuer Verein
+* erwartete Kosten, Aufstellung fuer Verein:
     Auto: 800eur , Sprit: 250eur
     Unterbringung fuer 7 Leute: 1800 eur
     Verpflegung fuer 7 Leute: 800 eur
-
-##  Zeitliche Verteilung der Touren:
-    T1 : Hotel in Sestriere
-    T2 : Herberge in Abries
-    T3 : Hotel in Sampeyre
-    T4 : Herberge in Marmora
-    T5 : Hotel in Entraque
-    T6 : Hotel in LaBrigue
-    T7 : Hotel in Bordighera
-    -- : Hotel in Bordighera
-    Rueckfahrt : __ morgens
 
 ## Unterbringung
 
@@ -62,17 +51,21 @@ Letztes mal sind wir so um 30 bis 40 eur pro Person rausgekommen. Meist sind wir
 
 *   [PDF, 1,1MB](http://et.hoernle1.de/beta/wa17s/wa17streckenmb.pdf)
 *   [Clubwebseite](https://www.mtb-karlsruhe.de/?q=node/356)
-*   Bilder von 2012: [T1](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120624-assietta/_contents.html) [T2](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120625-colthures/_contents.html) [T4](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120626-stroppo/_contents.html) [T5](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120627-sambuco/_contents.html) [T6](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120628-mtagnelio/_contents.html)
+
+## Bilder von 2012: 
+* [T1](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120624-assietta/_contents.html) 
+* [T2](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120625-colthures/_contents.html) 
+* [T4](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120626-stroppo/_contents.html) 
+* [T5](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120627-sambuco/_contents.html)
+* [T6](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120628-mtagnelio/_contents.html)
 
 ## Videos
-
 *   [Offizielles Video](http://et.hoernle1.de/beta/wa13/20130629-Westalpentour-5M.mp4)
-
 *   [Technik und Stuerze](http://et.hoernle1.de/beta/wa13/20130629-Westalpen-Technik-5M.mp4)
 
 ## Auto
 
-Wir brauchen einen langen Mercedes Sprinter 216 CDI kombi lang 4235. [Bild1](http://www.parts-specs.com/photos/0757979-Mercedes-Benz-Sprinter-Combi-Sprinter-WB1-216-CDI-2012.jpg) [Bild2](http://www.mercedes-benz.de/content/media_library/hq/hq_mpc_reference_site/van_ng/new_vans/models/sprinter_906/crewbus/product_information/technical_data/dimensions_weights/long_01_715x230_de_06-2013.object-Single-MEDIA.tmp/lang_01_715x230.jpg)
+Wir brauchen einen langen Mercedes Sprinter 216 CDI kombi lang 4235. [Bild2](http://www.mercedes-benz.de/content/media_library/hq/hq_mpc_reference_site/van_ng/new_vans/models/sprinter_906/crewbus/product_information/technical_data/dimensions_weights/long_01_715x230_de_06-2013.object-Single-MEDIA.tmp/lang_01_715x230.jpg)
 
 *   Angebot 2017:
 
