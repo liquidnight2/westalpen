@@ -1,11 +1,8 @@
 # Infos Westalpen-Tour 2017
 
-
-
 ## Termine und Ablauf
 	 Abfahrt:  24.6. Samstag 4 Uhr in KA
 	 Rueckkehr: 1.7.   abends
-	
 	
 ## Teilnehmer und Motivation
 
@@ -14,7 +11,7 @@
 | Daniel | 100% ok |  |  | ja gern |  |  
 | Marc | 100% ok |  | | - ok | |  |  | 
 | Detlef | 100% ok |  |  | ja gern |  |  | 
-| Lukas | 100% ok |  |   | - ok |  |  | 
+| Lukas | bezahlt |  |   | - ok |  |  | 
 | Martin | 100% ok |  |  | |  |  | 
 | Wolfgang | 100% ok|  |   | ja gern | |  |  | 
 | Marcus | 100% ok|  |   | - ok | |  |  |  | 
