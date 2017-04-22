@@ -1,9 +1,11 @@
-# westalpen
-	<H2>	Infos Westalpen-Tour 2017	</H2>
+# Infos Westalpen-Tour 2017
+## Termine und Ablauf
+	 Abfahrt:  24.6. Samstag 4 Uhr in KA
+	 Rueckkehr: 1.7.   abends
+	
 
-    Termin steht nun:  2017-06-24 <br>
+##Teilnehmer und Motivation
 
-	<H2>Teilnehmer und Motivation</H2> <!--  bgcolor="#448844"  -->
 	<UL>
 		<table border="1">
 		  <tr><th> Teilnehmer </th><th> Wahrschein- lichkeit  </th><th> Zusteigepunkt </th><th>Handy</th> <th>Tag laenger</th><th> Reifengroesse  </th>  </tr>
@@ -35,24 +37,15 @@
 		<LI>Kassier: noch offen.
 		<br/><br/>
 
-    	<LI>erwartete Kosten, Aufstellung fuer Verein<br/>
+## Erwartete Kosten, Aufstellung fuer Verein<br/>
 			Auto: 800eur , Sprit: 250eur <br/>
 			Unterbringung fuer  7 Leute: 1800 eur <br/>
 			Verpflegung  fuer 7 Leute: 800 eur <br/>
 			<br/><br/>
-	</UL>
-
-	
-	<H2>Termine und Ablauf</H2>
-    <UL>
-     <LI>
-	 Abfahrt:  24.6. Samstag 4 Uhr in KA
-	 <br/>
-	 Rueckkehr: 1.7.   abends
-	 <br/><br/>
 
 
-     <LI>Zeitlich Verteilung der Touren: <br/>
+
+## Zeitlich Verteilung der Touren: 
        T1 :   Hotel in Sestriere<br/>
        T2 :  Herberge in Abries<br/>
        T3 :  Hotel in Sampeyre<br/>
@@ -214,7 +207,7 @@
 	 <a href="http://www.mercedes-benz.de/content/media_library/hq/hq_mpc_reference_site/van_ng/new_vans/models/sprinter_906/crewbus/product_information/technical_data/dimensions_weights/long_01_715x230_de_06-2013.object-Single-MEDIA.tmp/lang_01_715x230.jpg">Bild2</a>
 	<UL>
 		<LI>Angebot 2017:<pre>
-...kein Problem Herr Knappe, also von Freitag 23.6. Abend bis Samstag 1.7. Abend sind es 8 Tage.
+...kein Problem  also von Freitag 23.6. Abend bis Samstag 1.7. Abend sind es 8 Tage.
 Für 8 Tage können wir Ihnen 730,00 Euro anbieten, das ist durchschnittlich etwa der Preis von 2015.
     </pre>
 
@@ -233,7 +226,7 @@ mit 1000,00 Euro SB.</pre>
 
 
 
-	<H2>Ausruestung</H2>
+## Ausruestung
 	<UL>
 		<LI> Technik: empfehlenswert sind mindestens 10cm Federweg vorn.
              Ab 12cm + 10cm kann man von Komfort sprechen.
@@ -275,7 +268,7 @@ mit 1000,00 Euro SB.</pre>
 
 
 
-	<H2>Weitere Fragen</H2>
+## Weitere Fragen
 	<UL>
 		<LI> F: Fahrt ihr dann immer zusammen oder die Auffahrten jeder mit seiner Geschwindigkeit und dann oben warten?  
  			<br/>
