@@ -11,23 +11,21 @@
 
 | Teilnehmer    | Wahrscheinlichkeit | Zusteigepunkt | Handy | Tag laenger | Reifengroesse |
 | ------------- | ------------------ | ------------- | ----- | ----------- | ------------- | 
-| Daniel | 100% ok | ja gern |  |  |  | 
-| Marc | 100% ok | - ok | |  |  | 
-| Detlef | 100% ok | ja gern |  |  | 
-| Lukas | 100% ok | - ok |  |  | 
-| Martin | 100% ok | |  |  | 
-| Wolfgang | 100% ok | ja gern | |  |  | 
-| Marcus | 100% ok | - ok | |  |  |  | 
-| Joachim | 100% ok | fährt selbst runter | - ok | |  |  | 
+| Daniel | 100% ok |  |  | ja gern |  |  
+| Marc | 100% ok |  | | - ok | |  |  | 
+| Detlef | 100% ok |  |  | ja gern |  |  | 
+| Lukas | 100% ok |  |   | - ok |  |  | 
+| Martin | 100% ok |  |  | |  |  | 
+| Wolfgang | 100% ok|  |   | ja gern | |  |  | 
+| Marcus | 100% ok|  |   | - ok | |  |  |  | 
+| Joachim | 100% ok | fährt selbst runter  |   | - ok |  |  | 
 
 
-*   Die Vorstaende des Vereins entscheiden demnaechst ueber einen Zuschuss, habe angefragt. Voraussichtlich maximal 60eur, die Besatzung beschraenkt mal wieder.
+### Die Vorstaende des Vereins entscheiden demnaechst ueber einen Zuschuss, habe angefragt. Voraussichtlich maximal 60eur, die Besatzung beschraenkt mal wieder.
+### Wer hat ein Auto-Navi ? Daniel.
+### Kassier: noch offen.
 
-*   Wer hat ein Auto-Navi ? Daniel.
-
-*   Kassier: noch offen.
-
-*   erwartete Kosten, Aufstellung fuer Verein
+### erwartete Kosten, Aufstellung fuer Verein
     Auto: 800eur , Sprit: 250eur
     Unterbringung fuer 7 Leute: 1800 eur
     Verpflegung fuer 7 Leute: 800 eur
@@ -54,6 +52,7 @@
 | 06-28 | Entraque | Hotel [Trois Etoiles](http://www.hoteltroisetoiles.com/index.asp) an der Strasze gelegen. Zimmer und Zugaenge okay, Essen auch. Kontaktaufnahme frickelig. | [Wetter Marmora](http://www.worldmeteo.info/de/wetter.html?id=ITPM1832) |
 | 06-29 | La Brigue | Hotel [Le Mirval](http://www.lemirval.com/). Etwas gehoben aber vermutlich das einzige in der Ecke. | [Wetter Entracque](http://www.worldmeteo.info/de/wetter.html?id=ITPM1581) |
 | 06-30 | Bordighera | Hotel [Villa Sorriso](http://www.odv.vercelli.it/?page_id=125) [email](http://www.odv.vercelli.it/?page_id=9) Kirchliche Institution mit groszem gesichertem Innenhof. Wollte eine Anzahlung haben per Ueberweisung. |
+| 07-01 | Bordighera |  | |  | |  | |  |
 
 Wenn man die Hotels mal direkt per E-Mail anschreibt kann man die Bedingungen etwas verhandeln.
 Zimmerverteilung: sowie möglich groessere Zimmer. Fruestueck und Abendesssen sollten wir gleich mit buchen. Und es waere sinnvoll dass wir die Raeder im verschlossenen Keller oder Garage abstellen koennen.
@@ -121,74 +120,4 @@ Wir brauchen einen langen Mercedes Sprinter 216 CDI kombi lang 4235. [Bild1](htt
 
 *   F: Am Abreisetag wird dann nicht mehr gebiked, sondern gebadet, sehe ich das richtig?
     A: Da hocken wir morgens ins Auto und sind abends zurück in KA.
-
-
-
-
-
-		<br/> <br/>
-
-		<LI> Die Vorstaende des Vereins entscheiden demnaechst ueber einen Zuschuss, habe angefragt. Voraussichtlich maximal 60eur, die Besatzung beschraenkt mal wieder. 
-		<br/>
-        <LI>Wer hat ein Auto-Navi ?  Daniel. <br/>
-		
-		<LI>Kassier: noch offen.
-		<br/><br/>
-
-## Erwartete Kosten, Aufstellung fuer Verein<br/>
-			Auto: 800eur , Sprit: 250eur <br/>
-			Unterbringung fuer  7 Leute: 1800 eur <br/>
-			Verpflegung  fuer 7 Leute: 800 eur <br/>
-			<br/><br/>
-
-
-
-
-
-
-
-
-	<H2>Streckenbeschreibungen</H2>
-	<UL>
-		<LI><a href="http://et.hoernle1.de/beta/wa17s/wa17streckenmb.pdf">PDF, 1,1MB</a>
-		<LI><a href="https://www.mtb-karlsruhe.de/?q=node/356">Clubwebseite</a>
-		
-		<LI>Bilder von 2012:  
-         <a href="http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120624-assietta/_contents.html">T1</a>
-         <a href="http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120625-colthures/_contents.html">T2</a>
-         <a href="http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120626-stroppo/_contents.html">T4</a>
-         <a href="http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120627-sambuco/_contents.html">T5</a>
-         <a href="http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120628-mtagnelio/_contents.html">T6</a>
-	 <br/><br/>
-	</UL>
-
-	<H2>Videos</H2>
-	<UL>
-		<LI><a href="http://et.hoernle1.de/beta/wa13/20130629-Westalpentour-5M.mp4">Offizielles Video</a><br/>
-		<LI><a href="http://et.hoernle1.de/beta/wa13/20130629-Westalpen-Technik-5M.mp4">Technik und Stuerze</a>  <br/>
-		<br/><br/>
-	</UL>
-
-	<H2>Auto</H2>
-	 Wir brauchen einen langen Mercedes Sprinter 216 CDI kombi lang 4235.
-	 <a href="http://www.parts-specs.com/photos/0757979-Mercedes-Benz-Sprinter-Combi-Sprinter-WB1-216-CDI-2012.jpg"  >Bild1</a>
-	 <a href="http://www.mercedes-benz.de/content/media_library/hq/hq_mpc_reference_site/van_ng/new_vans/models/sprinter_906/crewbus/product_information/technical_data/dimensions_weights/long_01_715x230_de_06-2013.object-Single-MEDIA.tmp/lang_01_715x230.jpg">Bild2</a>
-	<UL>
-		<LI>Angebot 2017:<pre>
-...kein Problem  also von Freitag 23.6. Abend bis Samstag 1.7. Abend sind es 8 Tage.
-Für 8 Tage können wir Ihnen 730,00 Euro anbieten, das ist durchschnittlich etwa der Preis von 2015.
-    </pre>
-
-
-		<LI>Angebot 2015:<pre>
-Der Mietpreis für einen Mercedes Sprinter im von Ihnen gewünschten Zeitraum
-beträgt 720,00 Euro bis Samstag Abend.
-
-Sollten Sie das Fahrzeug auch noch am Sonntag benötigen beträgt der Mietpreis
-799,00 Euro.
-
-Alle genannten Preise sind incl. MwSt, 2500 frei Kilometer und Vollkaskoversicherung
-mit 1000,00 Euro SB.</pre>
-	</UL>
-
 
