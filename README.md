@@ -9,13 +9,13 @@
 | Teilnehmer    | Wahrscheinlichkeit | Zusteigepunkt | Handy | Tag laenger | Reifengroesse |
 | ------------- | ------------------ | ------------- | ----- | ----------- | ------------- | 
 | Daniel | 100% ok |  |  | ja gern |  |  
-| Marc | 100% ok |  | | - ok | |  |  | 
-| Detlef | 100% ok |  |  | ja gern |  |  | 
+| Marc | bezahlt |  | | - ok | |  |  | 
+| Detlef | bezahlt |  |  | ja gern |  |  | 
 | Lukas | bezahlt |  |   | - ok |  |  | 
-| Martin | 100% ok |  |  | |  |  | 
-| Wolfgang | 100% ok|  |   | ja gern | |  |  | 
-| Marcus | 100% ok|  |   | - ok | |  |  |  | 
-| Joachim | 100% ok | fährt selbst runter  |   | - ok |  |  | 
+| Martin | bezahlt |  |  | |  |  | 
+| Wolfgang | bezahlt |  |   | ja gern | |  |  | 
+| Joachim | bezahlt | fährt selbst runter  |   | - ok |  |  | 
+| Marcus | zahlt Auto |  |   | - ok | |  |  |  | 
 
 
 * Die Vorstaende des Vereins entscheiden demnaechst ueber einen Zuschuss, habe angefragt. Voraussichtlich maximal 60eur, die Besatzung beschraenkt mal wieder.
