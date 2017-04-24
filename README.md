@@ -39,6 +39,7 @@
 | 06-29 | La Brigue | Hotel [Le Mirval](http://www.lemirval.com/). Etwas gehoben aber vermutlich das einzige in der Ecke. | [Wetter Entracque](http://www.worldmeteo.info/de/wetter.html?id=ITPM1581) |
 | 06-30 | Bordighera | Hotel [Villa Sorriso](http://www.odv.vercelli.it/?page_id=125) [email](http://www.odv.vercelli.it/?page_id=9) Kirchliche Institution mit groszem gesichertem Innenhof. Wollte eine Anzahlung haben per Ueberweisung. |
 | 07-01 | Bordighera |  | |  | |  | |  |
+| 07-02 | Rückfahrt KA |  | |  | |  | |  |
 
 Wenn man die Hotels mal direkt per E-Mail anschreibt kann man die Bedingungen etwas verhandeln.
 Zimmerverteilung: sowie möglich groessere Zimmer. Fruestueck und Abendesssen sollten wir gleich mit buchen. Und es waere sinnvoll dass wir die Raeder im verschlossenen Keller oder Garage abstellen koennen.
