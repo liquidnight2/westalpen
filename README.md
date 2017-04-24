@@ -14,7 +14,7 @@
 | Lukas | bezahlt |  |   | - ok |  |  | 
 | Martin | bezahlt |  |  | |  |  | 
 | Wolfgang | bezahlt |  |   | ja gern | |  |  | 
-| Joachim | bezahlt | fährt selbst runter  |   | - ok |  |  | 
+| Joachim | bezahlt |  |   | ja gern |  |  | 
 | Marcus | zahlt Auto |  |   | - ok | |  |  |  | 
 
 
