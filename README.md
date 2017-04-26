@@ -8,7 +8,7 @@
 
 | Teilnehmer    | Wahrscheinlichkeit | Zusteigepunkt | Handy | Tag laenger | Reifengroesse |
 | ------------- | ------------------ | ------------- | ----- | ----------- | ------------- | 
-| Daniel | 100% ok |  |  | ja gern |  |  
+| Daniel | bezahlt |  |  | ja gern |  |  
 | Marc | bezahlt |  | | - ok | |  |  | 
 | Detlef | bezahlt |  |  | ja gern |  |  | 
 | Lukas | bezahlt |  |   | - ok |  |  | 
