@@ -68,33 +68,26 @@ Wir brauchen einen langen Mercedes Sprinter 216 CDI kombi lang 4235. [Bild2](htt
 * Anfrage bei Avinz Gmbh: keine solchen Transporter
 * Anfrage bei Rentawrack: einziges solches Fahrzeug in dem Zeitraum bereits vermietet.
 * Anfrage bei Ahrens Gmbh:  keine solchen Transporter
-* Angebot 2017 Abram Autovermietung <pre>
-
-Folgendes Fahrzeug können wir Ihnen anbieten:
+* Angebot 2017 Abram Autovermietung 
+<pre>Folgendes Fahrzeug können wir Ihnen anbieten:
 VW Crafter 9-Sitzer zum Preis von 987,00 € für den gewünschten Zeitraum incl. 2600 Kilometer.
 Wir verlangen eine Kaution von 200,00 € zzgl. die Miete bei Abholung des Fahrzeuges.
 Den Betrag von 1187,00 € können Sie in Bar, per EC-Karte oder Kreditkarte hinterlegen.
 Fahrzeug ist vollgetankt, vollgetankt bitte wieder zurück.
-Fahrzeug ist vollkaskoversichert mit einer SB von 1000,00 € im Schadenfall, Teilkasko 150,00 € SB.
-</pre>
+Fahrzeug ist vollkaskoversichert mit einer SB von 1000,00 € im Schadenfall, Teilkasko 150,00 € SB.</pre>
 
 * Angebot 2017 BR Autovermietung:
-
     <pre>...kein Problem , also von Freitag 23.6\. Abend bis Samstag 1.7\. Abend sind es 8 Tage.
     Für 8 Tage können wir Ihnen 730,00 Euro anbieten, das ist durchschnittlich etwa der Preis von 2015.
-    
     Mittlerweile sind alle großen Sprinter im von Ihnen gewünschten Zeitraum reserviert.
 Möglich wäre noch ein Sprinter mir großer Ladefläche der allerdings nur 7 Sitzplätze hat.
         </pre>
 
 * Angebot 2015:
-
     <pre>Der Mietpreis für einen Mercedes Sprinter im von Ihnen gewünschten Zeitraum
     beträgt 720,00 Euro bis Samstag Abend.
-
     Sollten Sie das Fahrzeug auch noch am Sonntag benötigen beträgt der Mietpreis
     799,00 Euro.
-
     Alle genannten Preise sind incl. MwSt, 2500 frei Kilometer und Vollkaskoversicherung
     mit 1000,00 Euro SB.</pre>
 
