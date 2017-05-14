@@ -19,7 +19,8 @@
 | Henning | 100%  | Nachruecker |   | - ok | |  |  |  | 
 
 
-* Die Vorstaende des Vereins entscheiden demnaechst ueber einen Zuschuss, habe angefragt. Voraussichtlich maximal 60eur, die Besatzung beschraenkt mal wieder.
+* Die Vorstaende des Vereins haben diesmal entschieden, keinen 
+  Zuschuss zu geben.
 * Wer hat ein Auto-Navi ? Daniel.
 * Kassier: noch offen.
 
