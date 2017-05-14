@@ -16,6 +16,7 @@
 | Wolfgang | bezahlt |  |   | ja gern | |  |  | 
 | Joachim | bezahlt |  |   | ja gern |  |  | 
 | Marcus | zahlt Auto |  |   | - ok | |  |  |  | 
+| Henning | 100%  | Nachruecker |   | - ok | |  |  |  | 
 
 
 * Die Vorstaende des Vereins entscheiden demnaechst ueber einen Zuschuss, habe angefragt. Voraussichtlich maximal 60eur, die Besatzung beschraenkt mal wieder.
