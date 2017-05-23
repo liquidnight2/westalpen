@@ -1,0 +1,7 @@
+insgesamt 620
+-rw-r--r-- 1 marcus marcus      0 23. Mai 2017  1.txt
+-rw-rw-r-- 1 marcus users   11885 21. Apr 23:47 HEADER.html
+-rw-rw-r-- 1 marcus users  269817 27. Mär 2013  fahrt2.jpg
+-rw-rw-r-- 1 marcus users  292538 27. Mär 2013  fahrt3.jpg
+-rw-r--r-- 1 marcus users    6550 19. Mai 2015  hotel-mails-2013.txt
+-rw-rw-r-- 1 marcus users   47231  3. Jul 2015  marcus-packliste.ods
