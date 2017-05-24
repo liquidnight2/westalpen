@@ -39,7 +39,7 @@
 | 06-27 | Marmora | Herberge / Camping [Camp Lou Daho](http://www.campingloudahu.com) Das ist ein Camp mit herbergsartigen Zimmern. 4er/6er oder so. | [Wetter Sampeyre](http://www.worldmeteo.info/de/wetter.html?id=ITPM2323) |  Marcus? | ? |
 | 06-28 | Entraque | Hotel [Trois Etoiles](http://www.hoteltroisetoiles.com/index.asp) an der Strasze gelegen. Zimmer und Zugaenge okay, Essen auch. Kontaktaufnahme frickelig. | [Wetter Marmora](http://www.worldmeteo.info/de/wetter.html?id=ITPM1832) |  ? | ? |
 | 06-29 | La Brigue |  | [Wetter Entracque](http://www.worldmeteo.info/de/wetter.html?id=ITPM1581) |  Daniel  | ? |
-| 06-30 | Bordighera | Hotel [Villa Sorriso](http://www.odv.vercelli.it/?page_id=125) [email](http://www.odv.vercelli.it/?page_id=9) Kirchliche Institution mit groszem gesichertem Innenhof. Wollte eine Anzahlung haben per Ueberweisung. |  Joachim | ? |
+| 06-30 | Bordighera | Hotel [Villa Sorriso](http://www.odv.vercelli.it/?page_id=125) [email](http://www.odv.vercelli.it/?page_id=9) Kirchliche Institution mit groszem gesichertem Innenhof. Wollte eine Anzahlung haben per Ueberweisung. |  |  Joachim | 
 | 07-01 | Bordighera |  | |  | |  | |  |
 | 07-02 | Rückfahrt KA |  | |  | |  | |  |
 
