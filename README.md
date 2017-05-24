@@ -38,14 +38,16 @@
 | 06-26 | Sampeyre | Hotel [Nebin](http://www.hotelmontenebin.it/) ein dickes Hotel mit gutem Abendessen, Garage untendran, dort konnten wir die Raeder bereits reinstellen. Fragen nach Kreditkarte zur Reservierung. | [Wetter Abries](http://www.worldmeteo.info/de/wetter.html?id=FRPA0001) |  ? | ? |
 | 06-27 | Marmora | Herberge / Camping [Camp Lou Daho](http://www.campingloudahu.com) Das ist ein Camp mit herbergsartigen Zimmern. 4er/6er oder so. | [Wetter Sampeyre](http://www.worldmeteo.info/de/wetter.html?id=ITPM2323) |  Marcus? | ? |
 | 06-28 | Entraque | Hotel [Trois Etoiles](http://www.hoteltroisetoiles.com/index.asp) an der Strasze gelegen. Zimmer und Zugaenge okay, Essen auch. Kontaktaufnahme frickelig. | [Wetter Marmora](http://www.worldmeteo.info/de/wetter.html?id=ITPM1832) |  ? | ? |
-| 06-29 | La Brigue | Hotel [Le Mirval](http://www.lemirval.com/). Etwas gehoben aber vermutlich das einzige in der Ecke. | [Wetter Entracque](http://www.worldmeteo.info/de/wetter.html?id=ITPM1581) |  Daniel ? | ? |
-| 06-30 | Bordighera | Hotel [Villa Sorriso](http://www.odv.vercelli.it/?page_id=125) [email](http://www.odv.vercelli.it/?page_id=9) Kirchliche Institution mit groszem gesichertem Innenhof. Wollte eine Anzahlung haben per Ueberweisung. |  ? | ? |
+| 06-29 | La Brigue |  | [Wetter Entracque](http://www.worldmeteo.info/de/wetter.html?id=ITPM1581) |  Daniel  | ? |
+| 06-30 | Bordighera | Hotel [Villa Sorriso](http://www.odv.vercelli.it/?page_id=125) [email](http://www.odv.vercelli.it/?page_id=9) Kirchliche Institution mit groszem gesichertem Innenhof. Wollte eine Anzahlung haben per Ueberweisung. |  Joachim | ? |
 | 07-01 | Bordighera |  | |  | |  | |  |
 | 07-02 | Rückfahrt KA |  | |  | |  | |  |
 
 Wenn man die Hotels mal direkt per E-Mail anschreibt kann man die Bedingungen etwas verhandeln.
 Zimmerverteilung: sowie möglich groessere Zimmer. Fruestueck und Abendesssen sollten wir gleich mit buchen. Und es waere sinnvoll dass wir die Raeder im verschlossenen Keller oder Garage abstellen koennen.
 Letztes mal sind wir so um 30 bis 40 eur pro Person rausgekommen. Meist sind wir abends im Hotel, essen gegangen - manchmal auch in einem Restaurant.
+
+* Fuer 2017:  Hotel [Le Mirval](http://www.lemirval.com/). 
 
 ## Streckenbeschreibungen
 
