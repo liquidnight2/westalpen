@@ -22,7 +22,7 @@
 * Die Vorstaende des Vereins haben diesmal entschieden, keinen 
   Zuschuss zu geben.
 * Wer hat ein Auto-Navi ? Daniel.
-* Kassier: noch offen.
+* Kassier: Marc.
 
 * erwartete Kosten, Aufstellung fuer Verein:
     Auto: 800eur , Sprit: 250eur
