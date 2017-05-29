@@ -22,7 +22,7 @@
 * Die Vorstaende des Vereins haben diesmal entschieden, keinen 
   Zuschuss zu geben.
 * Wer hat ein Auto-Navi ? Daniel.
-* Kassier: noch offen.
+* Kassier: Marc.
 
 * erwartete Kosten, Aufstellung fuer Verein:
     Auto: 800eur , Sprit: 250eur
@@ -33,12 +33,12 @@
 
 | Tag       | Ziel Ort       | Wer bucht? | Link | gebucht ? | Transporter fahrer |
 | ----------| -------------- | ---------- | ----- | ----------- | ------------- | 
-| 06-24 | Sestriere | Hotel [Lago Losetta](http://hotellagolosetta.it/hotellagolosetta.it/WELCOME.html) 2013 gab es kein Abendessen, wir sind nach Sestriere in ne Pizzeria gefahren. 2015 gab es etwas weil da eine Mtb-Veranstaltung war. Fruehstueck war italienisch == duerftig. Evtl. wollen die ne Anzahlung haben. |  [Wetter Sestriere](http://www.worldmeteo.info/de/wetter.html?id=ITPM2483) | Lucas ? | ? |
-| 06-25 | Abries | Herberge [Ancolie-Bleue](http://www.ancolie-bleue-queyras.com) Letztes mal waren wir im 9er-Zimmer - recht eng das ganze aber urig und gemuetlich. Abendessen handgemacht und okay. Wollen auch eine Anzahlung haben. Pruefen: braucht man Bettzeug ? | [Wetter Abries](http://www.worldmeteo.info/de/wetter.html?id=FRPA0001) | ? | ? |
-| 06-26 | Sampeyre | Hotel [Nebin](http://www.hotelmontenebin.it/) ein dickes Hotel mit gutem Abendessen, Garage untendran, dort konnten wir die Raeder bereits reinstellen. Fragen nach Kreditkarte zur Reservierung. |  |  ? | ? |
-| 06-27 | Marmora | Herberge / Camping [Camp Lou Daho](http://www.campingloudahu.com) Das ist ein Camp mit herbergsartigen Zimmern. 4er/6er oder so. | [Wetter Sampeyre](http://www.worldmeteo.info/de/wetter.html?id=ITPM2323) |  Marcus | ? |
-| 06-28 | Entraque | Hotel [Trois Etoiles](http://www.hoteltroisetoiles.com/index.asp) an der Strasze gelegen. Zimmer und Zugaenge okay, Essen auch. Kontaktaufnahme frickelig. | [Wetter Marmora](http://www.worldmeteo.info/de/wetter.html?id=ITPM1832) |  ? | ? |
-| 06-29 | La Brigue |  | [Wetter Entracque](http://www.worldmeteo.info/de/wetter.html?id=ITPM1581) |  Daniel  | ? |
+| 06-24 | Sestriere | Hotel [Lago Losetta](http://hotellagolosetta.it/hotellagolosetta.it/WELCOME.html) 2013 gab es kein Abendessen, wir sind nach Sestriere in ne Pizzeria gefahren. 2015 gab es etwas weil da eine Mtb-Veranstaltung war. Fruehstueck war italienisch == duerftig. Evtl. wollen die ne Anzahlung haben. |  [Wetter Sestriere](http://www.worldmeteo.info/de/wetter.html?id=ITPM2483) | Lucas  | ? |
+| 06-25 | Abries | Herberge [Ancolie-Bleue](http://www.ancolie-bleue-queyras.com) Letztes mal waren wir im 9er-Zimmer - recht eng das ganze aber urig und gemuetlich. Abendessen handgemacht und okay. Wollen auch eine Anzahlung haben. Pruefen: braucht man Bettzeug ? | [Wetter Abries](http://www.worldmeteo.info/de/wetter.html?id=FRPA0001) | Wolfgang | ? |
+| 06-26 | Sampeyre | Hotel [Nebin](http://www.hotelmontenebin.it/) ein dickes Hotel mit gutem Abendessen, Garage untendran, dort konnten wir die Raeder bereits reinstellen. Fragen nach Kreditkarte zur Reservierung. | [Wetter Sampeyre](http://www.worldmeteo.info/de/wetter.html?id=ITPM2323)  |  Detlef | ? |
+| 06-27 | Marmora | Herberge / Camping [Camp Lou Daho](http://www.campingloudahu.com) Das ist ein Camp mit herbergsartigen Zimmern. 4er/6er oder so. |  [Wetter Marmora](http://www.worldmeteo.info/de/wetter.html?id=ITPM1832)  |  Marcus | ? |
+| 06-28 | Entraque | Hotel [Trois Etoiles](http://www.hoteltroisetoiles.com/index.asp) an der Strasze gelegen. Zimmer und Zugaenge okay, Essen auch. Kontaktaufnahme frickelig. |  [Wetter Entracque](http://www.worldmeteo.info/de/wetter.html?id=ITPM1581) | Martin | ? |
+| 06-29 | La Brigue |  | |  Daniel  | ? |
 | 06-30 | Bordighera | Hotel [Villa Sorriso](http://www.odv.vercelli.it/?page_id=125) [email](http://www.odv.vercelli.it/?page_id=9) Kirchliche Institution mit groszem gesichertem Innenhof. Wollte eine Anzahlung haben per Ueberweisung. |  |  Joachim | 
 | 07-01 | Bordighera |  | |  | |  | |  |
 | 07-02 | Rückfahrt KA |  | |  | |  | |  |
