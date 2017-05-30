@@ -24,11 +24,6 @@
 * Wer hat ein Auto-Navi ? Daniel.
 * Kassier: Marc.
 
-* erwartete Kosten, Aufstellung fuer Verein:
-    Auto: 800eur , Sprit: 250eur
-    Unterbringung fuer 7 Leute: 1800 eur
-    Verpflegung fuer 7 Leute: 800 eur
-
 ## Unterbringung
 
 | Tag       | Ziel Ort       | Wer bucht? | Link | gebucht ? | Transporter fahrer |
@@ -47,7 +42,12 @@ Wenn man die Hotels mal direkt per E-Mail anschreibt kann man die Bedingungen et
 Zimmerverteilung: sowie möglich groessere Zimmer. Fruestueck und Abendesssen sollten wir gleich mit buchen. Und es waere sinnvoll dass wir die Raeder im verschlossenen Keller oder Garage abstellen koennen.
 Letztes mal sind wir so um 30 bis 40 eur pro Person rausgekommen. Meist sind wir abends im Hotel, essen gegangen - manchmal auch in einem Restaurant.
 
-* Fuer 2017:  Hotel [Le Mirval](http://www.lemirval.com/). 
+* Fuer 2019:  Hotel [Le Mirval](http://www.lemirval.com/). 
+* erwartete Kosten, Aufstellung fuer Verein:
+    Auto: 800eur , Sprit: 250eur
+    Unterbringung fuer 7 Leute: 1800 eur
+    Verpflegung fuer 7 Leute: 800 eur
+
 
 ## Streckenbeschreibungen
 
