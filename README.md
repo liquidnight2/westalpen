@@ -33,7 +33,7 @@
 | 06-26 | Sampeyre | Hotel [Nebin](http://www.hotelmontenebin.it/) ein dickes Hotel mit gutem Abendessen, Garage untendran, dort konnten wir die Raeder bereits reinstellen. Fragen nach Kreditkarte zur Reservierung. | [Wetter Sampeyre](http://www.worldmeteo.info/de/wetter.html?id=ITPM2323)  |  Detlef | Marc |
 | 06-27 | Marmora | Herberge / Camping [Camp Lou Daho](http://www.campingloudahu.com) Das ist ein Camp mit herbergsartigen Zimmern. 4er/6er oder so. |  [Wetter Marmora](http://www.worldmeteo.info/de/wetter.html?id=ITPM1832)  |  Marcus | Joachim |
 | 06-28 | Entraque | Hotel [Trois Etoiles](http://www.hoteltroisetoiles.com/index.asp) an der Strasze gelegen. Zimmer und Zugaenge okay, Essen auch. Kontaktaufnahme frickelig. |  [Wetter Entracque](http://www.worldmeteo.info/de/wetter.html?id=ITPM1581) | Martin | Wolfgang |
-| 06-29 | La Brigue | [Auberge St.Martin](http://hotel-la-brigue.fr/) | |  Daniel  | Martin |
+| 06-29 | La Brigue | [Auberge St.Martin](http://hotel-la-brigue.fr/)  8zimmer| |  Daniel  | Martin |
 | 06-30 | Bordighera | Hotel [Villa Sorriso](http://www.odv.vercelli.it/?page_id=125) [email](http://www.odv.vercelli.it/?page_id=9) Kirchliche Institution mit groszem gesichertem Innenhof. Wollte eine Anzahlung haben per Ueberweisung. |  |  Joachim | Detlef  |
 | 07-01 | Bordighera |  | |  | |  | |  |
 | 07-02 | Rückfahrt KA |  | |  | |  | |  |
