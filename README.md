@@ -54,12 +54,19 @@ Letztes mal sind wir so um 30 bis 40 eur pro Person rausgekommen. Meist sind wir
 *   [PDF, 1,1MB](http://et.hoernle1.de/beta/wa17s/wa17streckenmb.pdf)
 *   [Clubwebseite](https://www.mtb-karlsruhe.de/?q=node/356)
 
+## Bilder von 2016:
+[imagebam](http://www.imagebam.com/gallery/tti4nwi7dac9umhnyzqldpait0dkecw7)
+
+
+<!--
 ## Bilder von 2012: 
 * [T1](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120624-assietta/_contents.html) 
 * [T2](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120625-colthures/_contents.html) 
 * [T4](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120626-stroppo/_contents.html) 
 * [T5](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120627-sambuco/_contents.html)
 * [T6](http://weckle.dnshome.de/bike/alpen2012/bilderauswahl/20120628-mtagnelio/_contents.html)
+-->
+
 
 ## Videos
 *   [Offizielles Video](http://et.hoernle1.de/beta/wa13/20130629-Westalpentour-5M.mp4)
